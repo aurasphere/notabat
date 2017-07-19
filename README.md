@@ -18,6 +18,10 @@ You can either run the notabat jar in the bin folder (by double clicking it) or 
  - The configuration can be edited without restarting the application. New changes will be picked up at the next battery check.
  - The notification popup shows an estimate of the expected residual autonomy in minutes if this information is made available by your system.
  - The notification popup will have 1 of 10 random color each time. The colors used are [Windows 7.5 standard](https://msdn.microsoft.com/library/windows/apps/ff402557(v=vs.105).aspx): Lime, Green, Teal, Cyan, Violet, Pink, Magenta, Red, Orange, Brown. 
+ 
+### FAQS
+
+UNDER CONSTRUCTION
 
 ### Screenshots
 
@@ -33,6 +37,6 @@ This project is considered completed and won't be developed further unless I get
 You can contact me using my account e-mail or opening an issue on this repo. I'll try to reply back ASAP.
 
 ### License and purpose of the project
-This project was created mostly for personal user. I found really difficult to notice the Windows default battery notification when I was running full screen application (mostly online games) and that ended often up on my laptop shutting down. This is basically the history behind this program. A big popup with a sound to immediately notice that I had to plug-in the charger. Lately I've decided to make this project open-source since somebody else may want to tweak it according to his/her needs. The project is released under the MIT license, which lets you reuse the code for any purpose you want (even commercial) with the only requirement being copying this <a href="LICENSE">project license</a> on your project.
+This project was created mostly for personal use. I found really difficult to notice the Windows default battery notification when I was running full screen application (mostly online games) and that ended often up with my laptop shutting down. This is basically the history behind this program: a big popup with a sound to immediately notice that I had to plug-in the charger. Lately I've decided to make this project open-source since somebody else may want to tweak it according to his/her needs. The project is released under the MIT license, which lets you reuse the code for any purpose you want (even commercial) with the only requirement being copying this <a href="LICENSE">project license</a> on your project.
 
 <sub>Copyright (c) 2017 Donato Rimenti</sub>
