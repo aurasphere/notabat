@@ -9,6 +9,13 @@
 	<description>Battery status notifier.</description>
 
 	<dependencies>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>4.12</version>
+			<scope>test</scope>
+		</dependency>
+
 		<!-- https://mvnrepository.com/artifact/net.java.dev.jna/jna -->
 		<dependency>
 			<groupId>net.java.dev.jna</groupId>
@@ -47,7 +54,7 @@
 				</executions>
 			</plugin>
 		</plugins>
-		
+
 		<!-- Doesn't output the version in the final file name -->
 		<finalName>${project.artifactId}</finalName>
 	</build>
