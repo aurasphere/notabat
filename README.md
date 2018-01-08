@@ -18,14 +18,18 @@ You can either run the notabat jar in the bin folder (by double clicking it) or 
  - The configuration can be edited without restarting the application. New changes will be picked up at the next battery check.
  - The notification popup shows an estimate of the expected residual autonomy in minutes if this information is made available by your system.
  - The notification popup will have 1 of 10 random color each time. The colors used are [Windows 7.5 standard](https://msdn.microsoft.com/library/windows/apps/ff402557(v=vs.105).aspx): Lime, Green, Teal, Cyan, Violet, Pink, Magenta, Red, Orange, Brown. 
- 
-### FAQS
-
-UNDER CONSTRUCTION
 
 ### Screenshots
-
-UNDER CONSTRUCTION
+<img alt="screenshot" src="/assets/screenshots/1.png"/> 
+<img alt="screenshot" src="/assets/screenshots/2.png"/>
+<img alt="screenshot" src="/assets/screenshots/3.png"/>
+<img alt="screenshot" src="/assets/screenshots/4.png"/>
+<img alt="screenshot" src="/assets/screenshots/5.png"/>
+<img alt="screenshot" src="/assets/screenshots/6.png"/>
+<img alt="screenshot" src="/assets/screenshots/7.png"/>
+<img alt="screenshot" src="/assets/screenshots/8.png"/>
+<img alt="screenshot" src="/assets/screenshots/9.png"/>
+<img alt="screenshot" src="/assets/screenshots/10.png"/>
 
 ### Contributions
 If you want to contribute on this project, just fork this repo and submit a pull request with your changes. Improvements are always appreciated!
