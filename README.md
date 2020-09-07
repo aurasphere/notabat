@@ -1,5 +1,7 @@
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/aurasphere/notabat/blob/master/LICENSE)
 [![release](http://github-release-version.herokuapp.com/github/aurasphere/notabat/release.svg?style=flat)](https://github.com/aurasphere/notabat/releases/latest)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-orange.svg)](https://www.paypal.com/donate/?cmd=_donations&business=8UK2BZP2K8NSS)
+
 
 # Notabat
 
